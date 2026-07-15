@@ -3,7 +3,6 @@
 **DarshanEase** is a digital platform designed to simplify temple darshan management by enabling **online booking, time-slot allocation, and real-time crowd updates**.
 The system reduces long waiting queues at temples and improves the overall devotee experience through technology.
 
-🔗 **Live Website:** https://darshan-ease-gray.vercel.app/
 
 ---
 
